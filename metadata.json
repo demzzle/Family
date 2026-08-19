@@ -1,0 +1,6 @@
+{
+  "name": "Portal Rodzinny",
+  "description": "Ciepła, nowoczesna aplikacja dla rodziny w UK – tablica wspomnień, miłosne zaczepki (Love Nudges), logistyka domowa UK (harmonogram koszy, MOT/Tax, przesyłki kurierskie, karty lojalnościowe, wyszukiwarka przedmiotów domowych 'Gdzie to jest?'), wspólny kalendarz i grafiki, zadania, zakupy i przepisy, strefa dziecka, kącik psa Arii, rozrywka z kołem fortuny, skarbonka, edukacja oraz treningi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
